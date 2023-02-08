@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Commercial Listing Website</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Listings</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h1>Welcome to the Commercial Listing Website</h1>
+      <p>Here you can find all types of commercial listings.</p>
+    </main>
+    <footer>
+      <p>Copyright &copy; 2023 by Commercial Listing Website</p>
+    </footer>
+  </body>
+</html>
